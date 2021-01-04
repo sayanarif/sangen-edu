@@ -1,15 +1,20 @@
-.header-wrapper {
-    border-radius: 50px;
-    background-color: #d40d02;
-}
-
-.right-box .social {
-    margin-right: 25px;
+@media (min-width:992px) {
+    .header-wrapper {
+        border-radius: 50px;
+        background-color: #d40d02;
+    }
+    .right-box .social {
+        margin-right: 25px;
+    }
 }
 
 .right-box .social a {
     border-radius: 0px 50px 50px 0px;
     background-color: #ffffff;
+}
+
+.header-wrapper {
+    background-color: #d40d02;
 }
 
 .right-box .social a:hover i {
