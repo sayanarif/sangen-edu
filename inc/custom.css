@@ -32,8 +32,10 @@
 .right-box .call-us-text span,
 .right-box .call-us-text a {
     color: #ffffff;
-    /*Star testimonia Background*/
-}.left-testimonials-bg{
+    
+}
+/*Star testimonia Background*/
+.left-testimonials-bg{
 	background: #008000;
 	padding: 20px;
 }
@@ -49,4 +51,8 @@
 
 .slider-head strong {
     line-height: 1.2;
+}
+
+.news-bg{
+	background:  #C0C0C0;
 }
