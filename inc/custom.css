@@ -1,0 +1,16 @@
+.header-wrapper {
+    border-radius: 50px;
+}
+
+.right-box .social {
+    margin-right: 25px;
+}
+
+.right-box .social a {
+    border-radius: 0px 50px 50px 0px;
+    background-color: #ffffff;
+}
+
+.right-box .social a:hover i {
+    color: #da1313;
+}

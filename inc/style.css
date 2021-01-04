@@ -15096,13 +15096,13 @@ iframe {
     background-image: linear-gradient(to right bottom, #7ed56f, #28b485);
 }
 .slider-one {
-    background: url(/images/background/assure-group-commercial-building.jpg);
+    background: url();
 }
 .slider-two {
-    background: url(/images/background/assure-apartment-interior-design-services.jpg);
+    background: url(./images/slider/);
 }
 .slider-three {
-    background: url(/images/background/islam-assure-center-commercial-building.jpg);
+    background: url(../images/slider/sangen-education-slider.png);
 }
 .slider-wrapper .item {
     background-size: cover;
