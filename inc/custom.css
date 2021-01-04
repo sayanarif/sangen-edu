@@ -1,5 +1,6 @@
 .header-wrapper {
     border-radius: 50px;
+    background-color: #d40d02;
 }
 
 .right-box .social {
@@ -13,4 +14,24 @@
 
 .right-box .social a:hover i {
     color: #da1313;
+}
+
+.right-box .call-us .icon i {
+    background-color: #ffffff;
+}
+
+.right-box .call-us:hover .icon i {
+    color: #da1313;
+}
+
+.right-box .call-us-text span,
+.right-box .call-us-text a {
+    color: #ffffff;
+}
+
+
+/* slider */
+
+.slider-head strong {
+    line-height: 1.2;
 }

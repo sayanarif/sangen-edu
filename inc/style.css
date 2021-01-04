@@ -15096,10 +15096,10 @@ iframe {
     background-image: linear-gradient(to right bottom, #7ed56f, #28b485);
 }
 .slider-one {
-    background: url();
+    background: url(../images/slider/sangen-aviation-course-slider.png);
 }
 .slider-two {
-    background: url(./images/slider/);
+    background: url(../images/slider/sangen-edu-slider.png);
 }
 .slider-three {
     background: url(../images/slider/sangen-education-slider.png);
