@@ -32,7 +32,17 @@
 .right-box .call-us-text span,
 .right-box .call-us-text a {
     color: #ffffff;
+    /*Star testimonia Background*/
+}.left-testimonials-bg{
+	background: #008000;
+	padding: 20px;
 }
+.right-testimonials-bg{
+	background: #ff0000;
+	padding: 20px;
+
+}
+/*End Testimonia Background*/
 
 
 /* slider */
