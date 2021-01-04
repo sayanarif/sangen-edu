@@ -15942,7 +15942,8 @@ ul.ul-style-dark li:after {
     left: 0;
     top: 0;
     width: 50%;
-    background: url(/images/affiliated-institutions.png);
+    background: url(images/students-testimonials.png);
+    :30%;
     height: 100%;
     z-index: -1;
     background-repeat: no-repeat;
@@ -15954,7 +15955,8 @@ ul.ul-style-dark li:after {
     right: 0;
     top: 0;
     width: 50%;
-    background: url(/images/students-testimonials.png);
+    background: url(images/affiliated-institutions.png);
+    opacity:30%;
     height: 100%;
     z-index: 0;
     background-repeat: no-repeat;

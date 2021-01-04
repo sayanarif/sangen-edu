@@ -46,6 +46,31 @@
 }
 /*End Testimonia Background*/
 
+/*Start Featured News and Events*/
+.boxedit{
+   
+    width: 565px !important;
+    margin-bottom: 20px;
+    
+
+}
+.articlesMidLeft{
+    height: auto !important;
+    width: 30% !important;
+    display: flex !important;
+    float: left;
+    padding: 5px;
+}
+/*Affliation*/
+.affiliation{
+    background-image: url(../images/affiliation/Affliation-bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 
 /* slider */
 
