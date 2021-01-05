@@ -14512,7 +14512,7 @@ iframe {
     background-size: cover;
 }
 .bg-two:after {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(27, 175, 81, 1) 100%);
+    background: linear-gradient(90deg, rgba(245, 5, 5, 1) 0%, rgba(27, 175, 81, 1) 100%);
     content: '';
     position: absolute;
     left: 0;
@@ -14533,14 +14533,14 @@ iframe {
     position: absolute;
     left: 50%;
     height: 10px;
-    background: url(/images/icons/heading-arrow.png);
+    background: url(../images/icons/heading-arrow.png);
     width: 110px;
     bottom: -33px;
     background-size: cover;
     transform: translateX(-50%);
 }
 .light.area-heading:after {
-    background: url(/images/icons/heading-arrow-w.png);
+    background: url(../images/icons/heading-arrow-w.png);
 }
 .column-count-2 {
     column-count: 2;
@@ -15884,7 +15884,7 @@ ul.ul-style-dark li:after {
     top: -11px;
     width: 35px;
     height: 35px;
-    background: url(/images/icons/quote.png);
+    background: url(../images/icons/quote.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -15942,8 +15942,8 @@ ul.ul-style-dark li:after {
     left: 0;
     top: 0;
     width: 50%;
-    background: url(images/students-testimonials.png);
-    :30%;
+    background: url(../images/background/why-choose-to-us.png);
+    : 30%;
     height: 100%;
     z-index: -1;
     background-repeat: no-repeat;
@@ -15955,8 +15955,8 @@ ul.ul-style-dark li:after {
     right: 0;
     top: 0;
     width: 50%;
-    background: url(images/affiliated-institutions.png);
-    opacity:30%;
+    background: url(../images/background/students-testimonials.png);
+    opacity: 30%;
     height: 100%;
     z-index: 0;
     background-repeat: no-repeat;
