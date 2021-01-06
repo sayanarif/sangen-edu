@@ -86,3 +86,87 @@
 .news-bg{
 	background:  #C0C0C0;
 }
+
+/*stat*/
+.fun-fact {
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    -moz-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
+    -webkit-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
+    -o-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    padding: 30px 20px;
+    background-image: url(https://www.osclbd.com/public/frontend/assets/img/banner/2.jpg);
+}
+.fun-fact .icon i {
+    color: #fff;
+    display: inline-block;
+    font-size: 60px;
+    margin-bottom: 15px;
+    position: relative;
+    z-index: 1;
+}
+.fun-fact .info {
+    padding-left: 20px;
+}
+.fun-fact .info .timer {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 5px;
+    line-height: 1.2;
+}
+.fun-fact .info span {
+    display: block;
+    font-family: "Poppins",sans-serif;
+}
+.fun-fact .info .medium {
+    color: #ffffff;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.fun-factor-area.default-padding.bottom-less {
+    padding-bottom: 40px;
+}
+
+.shadow {
+    position: relative;
+    z-index: 1;
+}
+.default-padding.bottom-less {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.fun-factor-area .item {
+    margin-bottom: 40px;
+}
+
+.fun-fact .info span {
+    display: block;
+    font-family: "Poppins",sans-serif;
+}
+#secondary .widget {
+    box-shadow: 0 2px 8px rgba(59,64,69,0.1);
+    padding: 0px 25px 25px 25px;
+    background-color: transparent;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    background-color: #fff;
+}
+#secondary .widget-title {
+    color: #121111;
+    margin: 12px -15px 15px;
+    padding: 5px 10px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-bottom: 2px solid #0371e1;
+}
+#secondary .widget ul li, #secondary .widget ol li {
+    padding: 0.4em 0;
+}
+
