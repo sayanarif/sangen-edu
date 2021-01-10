@@ -3,6 +3,7 @@
         border-radius: 50px;
         background-color: #d40d02;
     }
+
     .right-box .social {
         margin-right: 25px;
     }
@@ -10,7 +11,7 @@
 
 body {
     color: #2e2e2e;
-   
+
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -38,42 +39,47 @@ body {
 .right-box .call-us-text span,
 .right-box .call-us-text a {
     color: #ffffff;
-    
-}
-/*Star testimonia Background*/
-.left-testimonials-bg{
-	background: #008000;
-	padding: 20px;
-}
-.right-testimonials-bg{
-	background: #ff0000;
-	padding: 20px;
 
 }
+
+/*Star testimonia Background*/
+.left-testimonials-bg {
+    background: #008000;
+    padding: 20px;
+}
+
+.right-testimonials-bg {
+    background: #ff0000;
+    padding: 20px;
+
+}
+
 /*End Testimonia Background*/
 
 /*Start Featured News and Events*/
-.boxedit{
-   
+.boxedit {
+
     width: 565px !important;
     margin-bottom: 20px;
-    
+
 
 }
-.articlesMidLeft{
+
+.articlesMidLeft {
     height: auto !important;
     width: 30% !important;
     display: flex !important;
     float: left;
     padding: 5px;
 }
-.articlesMidRight{
-   
+
+.articlesMidRight {
+
     padding: 5px;
 }
 
 /*Affliation*/
-.affiliation{
+.affiliation {
     background-image: url(../images/affiliation/Affliation-bg.jpg);
     background-position: center;
     background-attachment: fixed;
@@ -89,8 +95,8 @@ body {
     line-height: 1.2;
 }
 
-.news-bg{
-	background:  #ffffff;
+.news-bg {
+    background: #ffffff;
 }
 
 /*stat*/
@@ -105,6 +111,7 @@ body {
     padding: 30px 20px;
     background-image: url(https://www.osclbd.com/public/frontend/assets/img/banner/2.jpg);
 }
+
 .fun-fact .icon i {
     color: #fff;
     display: inline-block;
@@ -113,9 +120,11 @@ body {
     position: relative;
     z-index: 1;
 }
+
 .fun-fact .info {
     padding-left: 20px;
 }
+
 .fun-fact .info .timer {
     color: #ffffff;
     font-size: 40px;
@@ -123,15 +132,18 @@ body {
     margin-bottom: 5px;
     line-height: 1.2;
 }
+
 .fun-fact .info span {
     display: block;
-    font-family: "Poppins",sans-serif;
+    font-family: "Poppins", sans-serif;
 }
+
 .fun-fact .info .medium {
     color: #ffffff;
     font-size: 18px;
     text-transform: uppercase;
 }
+
 .fun-factor-area.default-padding.bottom-less {
     padding-bottom: 40px;
 }
@@ -140,20 +152,23 @@ body {
     position: relative;
     z-index: 1;
 }
+
 .default-padding.bottom-less {
     padding-top: 80px;
     padding-bottom: 50px;
 }
+
 .fun-factor-area .item {
     margin-bottom: 40px;
 }
 
 .fun-fact .info span {
     display: block;
-    font-family: "Poppins",sans-serif;
+    font-family: "Poppins", sans-serif;
 }
+
 #secondary .widget {
-    box-shadow: 0 2px 8px rgba(59,64,69,0.1);
+    box-shadow: 0 2px 8px rgba(59, 64, 69, 0.1);
     padding: 0px 25px 25px 25px;
     background-color: transparent;
     border-bottom-left-radius: 3px;
@@ -162,6 +177,7 @@ body {
     -webkit-border-bottom-right-radius: 3px;
     background-color: #fff;
 }
+
 #secondary .widget-title {
     color: #121111;
     margin: 12px -15px 15px;
@@ -172,22 +188,29 @@ body {
     -webkit-border-top-right-radius: 3px;
     border-bottom: 2px solid #0371e1;
 }
-#secondary .widget ul li, #secondary .widget ol li {
+
+#secondary .widget ul li,
+#secondary .widget ol li {
     padding: 0.4em 0;
 }
+
 .course-content {
-  
+
     padding: 10px;
 }
+
 .single-property .bottom-content p::after {
     content: "" !important;
-    
+
 }
+
 .section-title {
     text-align: center;
     position: relative;
     margin: -8px auto 60px;
-}.section-title span {
+}
+
+.section-title span {
     color: #CC6E29;
     font-size: 14px;
     display: block;
@@ -195,6 +218,7 @@ body {
     letter-spacing: 10px;
     text-transform: uppercase;
 }
+
 .two-part-area:before {
     opacity: 85%;
 }

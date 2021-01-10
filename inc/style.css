@@ -14370,6 +14370,30 @@ iframe {
     padding-bottom: 50px;
     overflow: hidden;
 }
+.services {
+    background: #f1f1f1;
+}
+.section-title {
+    text-align: center;
+    position: relative;
+    margin: -8px auto 60px;
+}
+.svc-service-area {
+    text-align: center;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+.svc-service-area .image-area {
+    overflow: hidden;
+}
+.svc-service-title {
+    margin: 0px;
+    font-size: 1.15rem;
+    padding: 10px 20px;
+}
 .area-padding .single-project-inner .overview-box ul li {
     color: #17a84c;
 }
@@ -15955,7 +15979,7 @@ ul.ul-style-dark li:after {
     right: 0;
     top: 0;
     width: 50%;
-    background: url(../images/background/students-testimonials.png);
+    background: url(../images/background/students-testimonials.jpg);
     opacity: 30%;
     height: 100%;
     z-index: 0;
